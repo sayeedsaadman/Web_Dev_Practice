@@ -1,0 +1,25 @@
+h3{
+    color: brown;
+    font-size: 40px;
+    text-decoration: overline;
+}
+.blog{
+    background-color: blueviolet;
+}
+.one{
+    /* display: none; */
+    /* visibility: hidden; */
+    margin: 20px;
+    border: 10px solid red;
+    box-shadow: 5px 5px 12px rebeccapurple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.header{
+    height: 200px;
+    background-color: aquamarine;
+    background-image: url('granny.jpeg');
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-size: contain;
+    /* background-size: 100px ; */
+}
