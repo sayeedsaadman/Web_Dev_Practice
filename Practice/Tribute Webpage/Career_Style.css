@@ -8,7 +8,7 @@ nav li > a{
 }
   
   .container {
-    background-color: #e5e5fd;
+    background-color: #8f7691;
     min-height: 100vh;
     border: 10px solid #1d1e4c;
   }
@@ -43,32 +43,24 @@ nav li > a{
     height: 320px;
     object-fit: cover;
   }
-  .about_section {
+  .Career {
     margin-top: 50px;
   }
-  .about_section h2 {
+  .Career h2 {
     font-size: 70px;
     font-weight: 400;
     margin-bottom: 20px;
   }
-  .about_section p {
+  .Career p {
     font-size: 20px;
     line-height: 30px;
     letter-spacing: 1px;
     text-align: justify;
   }
-  .Individual-Achievement {
-    margin: 50px;
-  }
-  .Individual-Achievement h3 {
-    margin-bottom: 20px;
-  }
-  .Individual-Achievement li {
-    margin-bottom: 15px;
-  }
+ 
   
   footer {
-    margin: 50px;
+    margin: 50px 0;
   }
   footer p {
     text-align: center;

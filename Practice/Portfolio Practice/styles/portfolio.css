@@ -1,0 +1,125 @@
+.btn-primary {
+    border-radius: 5px;
+    background: #E64833;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+.section-title {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.section-description {
+    color: #181818;
+    text-align: center;
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    background-color: #244855;
+    background-repeat: no-repeat;
+    background-position: bottom right, top left;
+}
+
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-content {
+    max-width: 500px;
+}
+
+.banner .profile-pic {
+    width: 400px;
+    border-radius: 30px;
+}
+
+.banner-greeting {
+    font-size: 45px;
+    color: black;
+    margin-bottom: 0;
+}
+
+.banner-title {
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+/* main */
+.about {
+    padding: 120px;
+    border-radius: 10px;
+    background: #244855;
+    margin: 120px;
+}
+
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info {
+    text-align: center;
+}
+
+#expertise-description {
+    padding: 50px 100px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.skill {
+    padding: 30px;
+    border-radius: 5px;
+    background: #244855;
+    box-shadow: 0px 6px 50px 0px #244855;
+}
+
