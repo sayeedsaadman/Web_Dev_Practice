@@ -173,3 +173,20 @@ footer{
     font-weight: 700;
     padding: 15px 35px;
 }
+
+/* Responsive */
+
+.hide{
+    display: none;
+}
+
+/* Mobile Device */
+@media screen and (max-width: 576px) {
+    .skills-container, .resume-container{
+        flex-direction: column;
+    }
+    #expertise-description{
+        padding: 10px;
+    }
+    
+}
